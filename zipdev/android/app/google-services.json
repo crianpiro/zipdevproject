@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854604301709",
+    "firebase_url": "https://zipdevpokeapp.firebaseio.com",
+    "project_id": "zipdevpokeapp",
+    "storage_bucket": "zipdevpokeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854604301709:android:4cbf767a01efde719929c4",
+        "android_client_info": {
+          "package_name": "com.example.zipdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854604301709-ho7dmlebkqscgt5ck8tri7onl9s2j2ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdKjYk7vC3Q8O2IcuRkSebGw1H7cUtrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854604301709-ho7dmlebkqscgt5ck8tri7onl9s2j2ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
